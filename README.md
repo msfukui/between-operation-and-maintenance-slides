@@ -12,7 +12,7 @@
 
 ローカルに Web サーバを立ち上げて閲覧してください。
 
-例えば php のビルトインウェブサーバ https://www.php.net/manual/ja/features.commandline.webserver.php を使う場合は、以下のようになります。
+例えば php の[ビルトインウェブサーバ](https://www.php.net/manual/ja/features.commandline.webserver.php)を使う場合は、以下のようになります。
 
 ```
 $ git clone https://github.com/msfukui/between-operation-and-maintenance-slides.git
@@ -27,14 +27,12 @@ $ php -S localhost:8080
 
 github pages を設定しています。
 
-https://msfukui.github.io/between-operation-and-maintenance-slides
-
-でアクセスできます。
+[運用と保守の狭間で](https://msfukui.github.io/between-operation-and-maintenance-slides/index.html)
 
 ## 参考
 
-* remark  https://remarkjs.com/
+* [remark](https://remarkjs.com/)
 
-    スライドの表示に利用しているシンプルなスライドショーツールです。
+  スライドの表示に利用しているシンプルなスライドショーツールです。
 
 [EOF]
