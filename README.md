@@ -1,8 +1,8 @@
-# between operation and maintenance
+# between operation and maintenance slides
 
 「運用と保守の狭間で」というタイトルの発表用スライドです。
 
-2020/04/20 のリモート LT 大会向けのスライドになります。
+2020/04/20(Mon) のリモート LT 大会向けのスライドになります。
 
 ## 閲覧の方法
 
@@ -15,7 +15,7 @@
 例えば php のビルトインウェブサーバ https://www.php.net/manual/ja/features.commandline.webserver.php を使う場合は、以下のようになります。
 
 ```
-$ git clone between-operation-and-maintenance-slides
+$ git clone https://github.com/msfukui/between-operation-and-maintenance-slides.git
 ...
 $ cd between-operation-and-maintenance-slides
 $ php -S localhost:8080
@@ -36,3 +36,5 @@ https://msfukui.github.io/between-operation-and-maintenance-slides
 * remark  https://remarkjs.com/
 
     スライドの表示に利用しているシンプルなスライドショーツールです。
+
+[EOF]
